@@ -1,0 +1,13 @@
+dictionary of letter values and use count
+(ex {a: [1, 0]})
+
+input_string = user input (prompt = gimme a string)
+
+count_letters(string):
+
+    lower case the string
+
+    break string into list, iterate over list. increase letter[1] by one for
+    each instance of the letter
+
+    return stuff

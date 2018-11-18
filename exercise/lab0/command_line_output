@@ -1,0 +1,24 @@
+Script started on 2018-08-27 14:05:44-0600
+]0;cam@cam-XPS-13-9350: ~/Documents/cs107/exercise/lab0cam@cam-XPS-13-9350:~/Documents/cs107/exercise/lab0$ pwd
+/home/cam/Documents/cs107/exercise/lab0
+]0;cam@cam-XPS-13-9350: ~/Documents/cs107/exercise/lab0cam@cam-XPS-13-9350:~/Documents/cs107/exercise/lab0$ touch first.py
+]0;cam@cam-XPS-13-9350: ~/Documents/cs107/exercise/lab0cam@cam-XPS-13-9350:~/Documents/cs107/exercise/lab0$ mkdir lab0
+]0;cam@cam-XPS-13-9350: ~/Documents/cs107/exercise/lab0cam@cam-XPS-13-9350:~/Documents/cs107/exercise/lab0$ touch lab0/test1 lab0/test2
+]0;cam@cam-XPS-13-9350: ~/Documents/cs107/exercise/lab0cam@cam-XPS-13-9350:~/Documents/cs107/exercise/lab0$ ls lab0
+test1  test2
+]0;cam@cam-XPS-13-9350: ~/Documents/cs107/exercise/lab0cam@cam-XPS-13-9350:~/Documents/cs107/exercise/lab0$ mkdir[K[K[K[K[Ktouch .hideme
+]0;cam@cam-XPS-13-9350: ~/Documents/cs107/exercise/lab0cam@cam-XPS-13-9350:~/Documents/cs107/exercise/lab0$ ls[K[Kls -a
+[0m[01;34m.[0m  [01;34m..[0m  command_line_output  first.py  .hideme  [01;34mlab0[0m
+]0;cam@cam-XPS-13-9350: ~/Documents/cs107/exercise/lab0cam@cam-XPS-13-9350:~/Documents/cs107/exercise/lab0$ rm lab0/test1
+]0;cam@cam-XPS-13-9350: ~/Documents/cs107/exercise/lab0cam@cam-XPS-13-9350:~/Documents/cs107/exercise/lab0$ mkdir lab0/testfiles
+]0;cam@cam-XPS-13-9350: ~/Documents/cs107/exercise/lab0cam@cam-XPS-13-9350:~/Documents/cs107/exercise/lab0$ mv lab0/lab2 lab0/testfiles/
+mv: cannot stat 'lab0/lab2': No such file or directory
+]0;cam@cam-XPS-13-9350: ~/Documents/cs107/exercise/lab0cam@cam-XPS-13-9350:~/Documents/cs107/exercise/lab0$ mv lab0/lab2 lab0/testfiles/[1P lab0/testfiles/[1P lab0/testfiles/[1P lab0/testfiles/t lab0/testfiles/[1P lab0/testfiles/[1P lab0/testfiles/t lab0/testfiles/e lab0/testfiles/st lab0/testfiles/2 lab0/testfiles/[1P lab0/testfiles/[1P lab0/testfiles/t lab0/testfiles/
+test2      testfiles/ 
+]0;cam@cam-XPS-13-9350: ~/Documents/cs107/exercise/lab0cam@cam-XPS-13-9350:~/Documents/cs107/exercise/lab0$ mv lab0/test lab0/testfiles/2 lab0/testfiles/
+]0;cam@cam-XPS-13-9350: ~/Documents/cs107/exercise/lab0cam@cam-XPS-13-9350:~/Documents/cs107/exercise/lab0$ ls lab0[K[K[K[K-a lab0
+[0m[01;34m.[0m  [01;34m..[0m  [01;34mtestfiles[0m
+]0;cam@cam-XPS-13-9350: ~/Documents/cs107/exercise/lab0cam@cam-XPS-13-9350:~/Documents/cs107/exercise/lab0$ exit
+exit
+
+Script done on 2018-08-27 14:08:32-0600

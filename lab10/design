@@ -1,0 +1,18 @@
+stuff = input(Ask the user for input)
+
+def pigger(word):
+    if wordIsRegular:
+        word = word.PigLatin()
+
+def sentPigger(sentence):
+    if sentence == hasPunctuation:
+        get rid of that nonsense
+    for words in sentence:
+        pigger(those words)
+
+
+write_file = input(Where do you want me to dump this piglatin?)
+
+if pigLatin == done:
+    put that business into the write_file
+

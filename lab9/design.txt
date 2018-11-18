@@ -1,0 +1,9 @@
+take in both files
+
+split up the text in each line by line
+
+compare character by character the first line
+if the two lines dont match, print them both,
+and specify where they diverge
+
+move on to the next line
